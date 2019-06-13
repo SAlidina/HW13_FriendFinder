@@ -13,4 +13,8 @@ You will need to run npm install to get the right packages from the package.json
 ### How It Works ###
 When you run the app it will display home page which will take the user to a survey page with 10 questions. Each answer is on a scale of 1 to 5 based on how the user agrees or disagrees with a question.
 
-After the user answers the questions, the app will determine the user's most compati
+After the user answers the questions, the app will determine the user's most compatiable. The user is notified with a modal.
+
+If the user doesn't answer all the questions and fill out the name and add an image it will prompt the user to do so.
+
+The app is deployed [here]: https://obscure-brushlands-43401.herokuapp.com/
