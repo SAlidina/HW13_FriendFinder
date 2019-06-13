@@ -17,4 +17,4 @@ After the user answers the questions, the app will determine the user's most com
 
 If the user doesn't answer all the questions and fill out the name and add an image it will prompt the user to do so.
 
-The app is deployed [here]: https://obscure-brushlands-43401.herokuapp.com/
+The app is deployed [here](https://obscure-brushlands-43401.herokuapp.com/)
