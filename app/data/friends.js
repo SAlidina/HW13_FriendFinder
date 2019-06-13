@@ -1,8 +1,8 @@
 var friends = [
     {
-        name:"Ahmed",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-        score: [
+        name:"Terry Cruise",
+        photo: "https://pixel.nymag.com/imgs/daily/vulture/2017/11/08/08-terry-crews.w330.h330.jpg",
+        scores: [
             "5",
             "1",
             "4",
@@ -18,7 +18,7 @@ var friends = [
     {
         name:"Jacob Deming",
         photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
-        score: [
+        scores: [
             "4",
             "2",
             "5",
@@ -34,7 +34,7 @@ var friends = [
     {
         name:"Jeremiah Scanlon",
         photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
-        score: [
+        scores: [
             "5",
             "2",
             "2",
